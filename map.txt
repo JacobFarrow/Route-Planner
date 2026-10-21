@@ -1,0 +1,18 @@
+CITY Ashford
+CITY Brookside
+CITY Cedarville
+CITY Dunmore
+CITY Elmwood
+CITY Fairview
+CITY Glenhaven
+CITY Harborview
+ROAD Ashford Brookside 10
+ROAD Ashford Cedarville 25
+ROAD Brookside Cedarville 8
+ROAD Brookside Dunmore 15
+ROAD Cedarville Elmwood 12
+ROAD Dunmore Elmwood 6
+ROAD Dunmore Fairview 20
+ROAD Elmwood Fairview 9
+ROAD Fairview Glenhaven 7
+ROAD Elmwood Glenhaven 18
